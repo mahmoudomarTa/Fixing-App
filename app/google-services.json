@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125012929491",
+    "firebase_url": "https://fixing-app-d07f2.firebaseio.com",
+    "project_id": "fixing-app-d07f2",
+    "storage_bucket": "fixing-app-d07f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125012929491:android:faced54cf5d16234c9dd26",
+        "android_client_info": {
+          "package_name": "com.example.fixingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125012929491-6lb67ri32qloir5lecu4dsmumo5vd6nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixingapp",
+            "certificate_hash": "6fa7854c63566de73c5141148860b1795388f10a"
+          }
+        },
+        {
+          "client_id": "125012929491-rumvboclhk0b3n98dc2f8fqtngep696q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpGHB8gwS7AHL3nXMJbBPgnNWYU0Xcaig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125012929491-rumvboclhk0b3n98dc2f8fqtngep696q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

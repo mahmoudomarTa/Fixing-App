@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Fixing App</string>
+    <string name="skip">skip</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="arrayLocation">
+        <item>Gaza</item>
+        <item>Nusirat</item>
+        <item>Burage</item>
+        <item>Omar Al-Mokhtar street</item>
+        <item>Rafah</item>
+        <item>Khan Yunes</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">welcome</string>
+    <string name="ifYou">if you are asking for help fix something in your house , so you are in the right place !!</string>
+    <string name="easyAndFast">Easy and fast</string>
+    <string name="weCan">we can always reach you whenever you want , wherever you need</string>
+    <string name="letsGetStarted">Let\'s Get Started</string>
+    <string name="user">USER</string>
+    <string name="worker">WORKER</string>
+    <string name="email">E-mail</string>
+    <string name="phoneNumber">Phone Number :</string>
+    <string name="exMobileNumber">+0972500000000</string>
+    <string name="password">password</string>
+    <string name="forgetPassword">forget your password</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="name">name :</string>
+    <string name="yourName">YOUR FIRST AND LAST NAME</string>
+    <string name="profission">Profession :</string>
+    <string name="yourProfession">Your Profession</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="haveAccount">Have Account ?</string>
+    <string name="agreement">By siging up you indicate  that you have read and agreed to the Patch Terms of Service</string>
+    <string name="where">where</string>
+    <string name="searchLocation">  sSearch Location</string>
+    <string name="start">Start !!</string>
+    <string name="recentResearch">Recent Research</string>
+    <string name="selectLocation">plese , select location</string>
+    <string name="completedSuccessfully">Completed Successfully</string>
+    <string name="goToHome">Go to the Home Page</string>
+    <string name="home">Home</string>
+    <string name="startYourResearch">SStart your research</string>
+    <string name="saySomething">Say Something</string>
+    <string name="fixedPrice">fixed price</string>
+    <string name="now">now</string>
+    <string name="beforOneHour">befor one hour</string>
+    <string name="beforTwoHour">before two hours</string>
+    <string name="befor3Hour">befor 3 hours</string>
+    <string name="befor4Hour">befor 4 hours</string>
+    <string name="befor5Hour">befor 5 hours</string>
+    <string name="befor6Hour">befor 6 hours</string>
+    <string name="yesterday">yesterday</string>
+    <string name="befor2days">befor 2 days</string>
+    <string name="befor3days">befor 3 days</string>
+    <string name="am">am</string>
+    <string name="pm">pm</string>
+    <string name="you">you</string>
+    <string name="verify">we send the verification code for you , please wait for reach it , thank you</string>
+    <string name="verficationCode">verification code</string>
+    <string name="continueNow">continue</string>
+    <string name="didintGetTheCode">Did not get the code</string>
+    <string name="reSendTheCode">re send the code</string>
+    <string name="completeFields">complete fieldes</string>
+    <string name="enterARealPhone">enter a real phone number</string>
+    <string name="samePassword">password not confirmed successfully</string>
+    <string name="errorReTryAgane">error ): please re-try again</string>
+</resources>
